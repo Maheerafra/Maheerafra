@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Maheerafra</h1>
-<h3 align="center">aspiring fullstack developer and UX/UI designer</h3>
+<h3 align="center">Aspiring FULLSTACK developer and UX/UI designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheerafra&label=Profile%20views&color=0e75b6&style=flat" alt="maheerafra" /> </p>
 
 - 🌱 I’m currently learning **REACT**
+
+- 🤝 I’m looking for help with **REACT**
 
 - 💬 Ask me about **CSS**
 
@@ -24,6 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheerafra&" alt="maheerafra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheerafra&show_icons=true&locale=en" alt="maheerafra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheerafra&" alt="maheerafra" /></p>
