@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<<h1 align="center">Hi 👋, I'm Maheerafra</h1>
+<h1 align="center">Hi 👋, I'm Maheerafra</h1>
 <h3 align="center">aspiring fullstack developer and UX/UI designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheerafra&label=Profile%20views&color=0e75b6&style=flat" alt="maheerafra" /> </p>
