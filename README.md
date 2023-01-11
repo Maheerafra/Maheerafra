@@ -1,7 +1,7 @@
  
 <a  href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
 <h1 align="center">Hi 👋, I'm Maheerafra</h1>
-<h3 align="center">Aspiring FULLSTACK developer,UX/UI designer and Machine learning</h3>
+<h3 align="center">Aspiring FULLSTACK developer,UX/UI designer and AI </h3>
 
 <img align="right" alt="coding" width="500" src="https://vijaymishra964.com/wp-content/uploads/2019/11/web-design.gif"   >
 
