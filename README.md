@@ -1,10 +1,10 @@
  
 <a  href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
-<h1 align="center">Hi 👋, I'm Maheerafra</h1>
+<h1 align="center">Hi 👋, I'm Maheerafra  Aspiring FRONTEND Developer,UX/UI Designer and AI  </h1>
 
 <img align="center" alt="coding" width="800" height="400" src="https://vijaymishra964.com/wp-content/uploads/2019/11/web-design.gif">
 
-<h3 align="center">Aspiring FRONTEND Developer,UX/UI Designer and AI </h3>
+<h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheerafra&label=Profile%20views&color=0e75b6&style=flat" alt="maheerafra" /> </p>
 
