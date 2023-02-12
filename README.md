@@ -1,4 +1,4 @@
-  vv 
+  
 <a  href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a> 
 <h1 align="center">Hi 👋, I'm Maheerafra  Aspiring Frontend Developer,UX/UI Designer and AI  </h1>
 
